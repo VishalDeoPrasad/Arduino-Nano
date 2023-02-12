@@ -1,6 +1,6 @@
 int trigPin = 4;
-int echoPin = 9;
-int buzzerPin = 11;
+int echoPin = 8;
+int buzzerPin = 12;
 void setup() {
   pinMode(trigPin, OUTPUT); 
   pinMode(echoPin, INPUT);
